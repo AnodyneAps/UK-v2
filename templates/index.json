@@ -5,13 +5,13 @@
       "settings": {
         "page_width": "full_width",
         "height": "medium",
-        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/anodyne_cover_video.mp4?v=1631866527",
         "show_overlay": true,
-        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image": "shopify:\/\/shop_images\/Hero-video-cover.png",
         "image_position": "center center",
-        "video_title": "<span class=\"first\">Anodyne®<\/span>",
+        "video_title": "<span class=\"first\">ActivePosture®<\/span>",
         "text_size": "medium",
-        "text_description": "<p><strong>Verbessere jetzt die Haltung und lindere Verspannungen<\/strong><\/p>",
+        "text_description": "<p><strong>Improve your posture with our patented technology<\/strong><\/p>",
         "text_description_size": "medium",
         "button_label": "Männer",
         "button_link": "shopify:\/\/collections\/manner",
@@ -19,7 +19,7 @@
         "second_button_link": "shopify:\/\/collections\/frauen",
         "show_scrolldown": true,
         "show_emark": false,
-        "bottom_counter_text": "Wir versenden Ihr Paket in:",
+        "bottom_counter_text": "We pack your order within:",
         "show_bottom_counter": true
       }
     },
@@ -32,7 +32,6 @@
         "height": "medium",
         "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
         "show_overlay": true,
-        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
         "image_position": "center center",
         "video_title": "How To Add A Video Background On Shopify",
         "svg_selector": "blackdays",
@@ -56,37 +55,37 @@
         "1656942069c276e07d-0": {
           "type": "service",
           "settings": {
-            "title": "Schnelle Lieferung",
-            "description": "GRATIS Versand für Einkaufe über 59,00 €",
+            "title": "Fast delivery",
+            "description": "We pay all standard delivery costs and ship with Royal Mail or Hermes",
             "icon": "shopify:\/\/shop_images\/Truck.png",
-            "uspLinkUrl": "shopify:\/\/pages\/versand-und-lieferung"
+            "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
           }
         },
         "1656942069c276e07d-1": {
           "type": "service",
           "settings": {
-            "title": "Kostenlose Rückgabe",
-            "description": "Der Rückversand bei Anodyne® ist kostenfrei",
+            "title": "Easy return",
+            "description": "We offer a quick, free and easy way to return products",
             "icon": "shopify:\/\/shop_images\/Returns.png",
-            "uspLinkUrl": "shopify:\/\/pages\/versand-und-lieferung"
+            "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
           }
         },
         "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
           "type": "service",
           "settings": {
-            "title": "30 Tage Rückgaberecht",
-            "description": "Testen Sie unsere Produkte in aller Ruhe während 30 Tagen",
+            "title": "Shipped from UK",
+            "description": "We ship directly from our warehouse in Bristol",
             "icon": "shopify:\/\/shop_images\/Smile2.png",
-            "uspLinkUrl": "shopify:\/\/pages\/retourportal"
+            "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
           }
         },
         "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
           "type": "service",
           "settings": {
-            "title": "Professioneller Service",
-            "description": "Rufen Sie uns an oder kontaktieren Sie uns per Mail",
-            "icon": "shopify:\/\/shop_images\/Customerservice_copy.png",
-            "uspLinkUrl": "shopify:\/\/pages\/kontakt"
+            "title": "Try it for 30 days",
+            "description": "No strings attached! Return any product within 30 days",
+            "icon": "shopify:\/\/shop_images\/Checkmark.png",
+            "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
           }
         }
       },
@@ -115,7 +114,7 @@
           "type": "collection",
           "settings": {
             "title": "",
-            "collection": "ruckenstutze",
+            "collection": "back-support",
             "btn__shopnow": "Shop"
           }
         },
@@ -123,7 +122,7 @@
           "type": "collection",
           "settings": {
             "title": "",
-            "collection": "andere-producten",
+            "collection": "all-products",
             "btn__shopnow": "Shop"
           }
         }
@@ -156,21 +155,21 @@
         "1657200190267fd417-0": {
           "type": "Profile-Text",
           "settings": {
-            "title": "Warum haltungskorrigierende Kleidung von Anodyne® wählen?",
-            "code": "<p>Mit <a href=\"https:\/\/www.anodyne.at\/\"><span style=\"text-decoration:underline\">haltungskorrigierender Kleidung<\/span><\/a> von Anodyne® können Sie auf einfache und unbeschwerte Weise eine bessere Körperhaltung bekommen, sowie Schmerzen und Verspannungen im Nacken, Schultern und Rücken reduzieren. Anodyne® haltungskorrigierende Kleidung hilft Ihnen Ihr Körperbewusstsein zu verbessern und kann sowohl sitzend im Büro oder aktiver auf der Arbeit, auf Reisen oder zum Training verwendet werden. Anodyne® ist ein europäischer Produzent und Händler von das <a href=\"https:\/\/www.anodyne.at\/collections\/posture-shirt\"><span style=\"text-decoration:underline\">Posture Shirt<\/span><\/a>. Die Technologie wurde entwickelt vom us-amerikanischen Hersteller AlignMed - der einzige Produzent haltungskorrigierender Kleidung, die bei USA´s FDA (Behörde für u.a. Medizinalprodukte), registriert ist. Anodyne® haltungskorrigierende Kleidung ist die einzige Kleidung, die sowohl FDA-registriert und in Europa als medizinisches Hilfsmittel (Klasse 1) MDR\/CE-registriert ist. Dies ist Ihre Garantie dafür, dass Anodyne´s Produkte die Vorschriften für medizinische Hilfsmittel erfüllen. Wir bieten ebenfalls verschiedene <a href=\"https:\/\/www.anodyne.at\/collections\/ruckenstutze\"><span style=\"text-decoration:underline\">Produkte zur Rückenstütze<\/span><\/a>, unter anderem Geradehalter, Lendengurt, ergonomische Sitzkissen und viele weitere. Alle Produkte teilen die Eigenschaften, dass Sie die Körperhaltung verbessern und Schmerzen sowie Verspannungen im Alltag lindern.<\/p>",
+            "title": "Why choose posture clothing from ActivePosture®?",
+            "code": "<p><a href=\"\/collections\/posture-shirt\"><span style=\"text-decoration:underline\">Posture Shirt™<\/span><\/a> is the best choice when looking for pain reduction in neck, shoulders and back or if you are looking for a faster recovery after an injury, for instance, a shoulder injury. The shirt may also help prevent injuries when you do gym activities or other physical activities. How can the shirt do that? The shirt is anatomically constructed with NeuroBands™, which is tension panel bands that activates and stimulate specific muscle groups and joints to help improve your posture. This controlled resistance causes your muscles to contract to increase strength and keep you in an upright position. For those suffering from a shoulder injury or have recently had surgery, we recommend the zipper version of our Posture Shirt. We also have a wide selection of other <a href=\"\/collections\/back-support\"><span style=\"text-decoration:underline\">products that provide back support<\/span><\/a>, including three different posture braces and a lumbar support belt. What these products have in common are posture correction and pain relief.<\/p>",
             "text_alignment": "text-center",
             "status1_number": "+100.000",
-            "status1_label": "Zufriedene Kunden",
-            "status1_link": "shopify:\/\/collections\/alle-produkte",
+            "status1_label": "Happy customers",
+            "status1_link": "shopify:\/\/collections\/all",
             "status2_number": "+500.000",
-            "status2_label": "Weltweit verkaufte Produkte",
-            "status2_link": "shopify:\/\/collections\/alle-produkte",
+            "status2_label": "Products sold worldwide",
+            "status2_link": "shopify:\/\/collections\/all",
             "status3_number": "+8",
-            "status3_label": "Jahre Erfahrung",
-            "status3_link": "shopify:\/\/collections\/alle-produkte",
+            "status3_label": "Years of experience",
+            "status3_link": "shopify:\/\/collections\/all",
             "status4_number": "+80",
-            "status4_label": "Produkte verfügbar",
-            "status4_link": "shopify:\/\/collections\/alle-produkte",
+            "status4_label": "Products available",
+            "status4_link": "shopify:\/\/collections\/all",
             "vendor_image_position": "center center",
             "vendor_text": ""
           }
@@ -194,12 +193,12 @@
           "type": "quote",
           "settings": {
             "title": "",
-            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops_fdfe9026-9559-4440-aab2-ef9b0a5c0df4.png",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks.png",
             "icon": "format_quote",
-            "quote": "<p><em>Das Shirt sitzt gut und man merkt die Unterstützung durch das Material.<\/em><\/p>",
-            "author": "Angela E.",
-            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_d51d08de-43f4-4aac-b82f-36f72e72f599.png",
-            "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
+            "quote": "<p><em>I was doubtful about the cost of the shirts but the impact on my pain level totally justifies the outlay. I have just ordered more.  <\/em><\/p>",
+            "author": "Terri G.",
+            "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
+            "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
           }
@@ -208,12 +207,12 @@
           "type": "quote",
           "settings": {
             "title": "",
-            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops_fdfe9026-9559-4440-aab2-ef9b0a5c0df4.png",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks.png",
             "icon": "format_quote",
-            "quote": "<p><em>Bin in jeglicher Hinsicht zufrieden. Schnelle Lieferung und prima Qualität.<\/em><\/p>",
-            "author": "Thomas S.",
-            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_d51d08de-43f4-4aac-b82f-36f72e72f599.png",
-            "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
+            "quote": "<p><em>I bought my shirt and I must confess I was a little sceptical on how effective it would perform. My skepticism was unfounded.<\/em><\/p>",
+            "author": "Gordon R.",
+            "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
+            "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
           }
@@ -222,12 +221,12 @@
           "type": "quote",
           "settings": {
             "title": "",
-            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_trustedshops_fdfe9026-9559-4440-aab2-ef9b0a5c0df4.png",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks.png",
             "icon": "format_quote",
-            "quote": "<p><em>Auch bei dieser Bestellung ist alles ganz zu meinen Wünschen verlaufen.<\/em><\/p>",
-            "author": "Norbert B.",
-            "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_d51d08de-43f4-4aac-b82f-36f72e72f599.png",
-            "quotes_link": "https:\/\/somelink.com",
+            "quote": "<p><em>I would highly recommend this product and will be purchasing more and recommending to friends and family.<\/em><br\/><\/p>",
+            "author": "Michelle W.",
+            "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
+            "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
           }
@@ -241,6 +240,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
+        "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
         "title": "",
         "subtitle": "",
         "section_style": "section-blank",
@@ -256,17 +256,17 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Beliebte Produkte",
+        "title": "Most popular products",
         "subtitle": "",
         "section_style": "section-blank",
-        "home_featured_products": "bestseller",
+        "home_featured_products": "all-products",
         "rows": "2",
         "desktop_grid": "4",
         "mobile_grid": "2",
         "show_view_all": true,
-        "button_label": "Mehr sehen",
-        "button_link": "shopify:\/\/collections\/alle-produkter",
-        "button_style": "btn--primary",
+        "button_label": "See more products",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_style": "",
         "slider_related_products": true,
         "arrows": true,
         "dots": true,
@@ -281,24 +281,24 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Checkmark.png",
-            "title": "Die originale haltungskorrigierende Kleidung",
-            "text": "<p>Die originale Anodyne® haltungskorrigierende Kleidung kann nur auf <a href=\"https:\/\/www.anodyne-shop.de\/\" title=\"anodyne haltungskorrigierende Kleidung\">www.anodyne.at<\/a> erworben werden. Achten Sie darauf, dass es leider viele minderwertige Fälschungen auf dem Markt gibt. Nur ein einziges haltungskorrigierendes Produkt ist sowohl FDA-registriert und als medizinisches Hilfsmittel MDR\/CE-registriert: Anodyne®. Seien Sie beim online Shoppen also achtsam auf Fälschungen.<\/p>"
+            "title": "The original product for posture correction",
+            "text": "<p>The original posture clothing from ActivePosture®  is the only that is both FDA-registered and CE-registrered as a medical device and can be bought on <a href=\"https:\/\/www.activeposture.co.uk\/\" title=\"https:\/\/www.activeposture.co.uk\">www.activeposture.co.uk<\/a> or one of our licensed resellers. We are a UK-based company which gives you peace of mind that should you end up with a faulty product or just decide that it is not a product for you, you can easily return it and at no cost.<\/p>"
           }
         },
         "16595128814be99d47-1": {
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Smile2.png",
-            "title": "Haltungskorrigierende Kleidung mit 100% Zufriedenheitsgarantie",
-            "text": "<p>Bei Anodyne® bieten wir immer 100% Zufriedenheitsgarantie, 30 Tage gesetzliches Widerrufsrecht und kostenfreie Rücksendung bei Umtausch oder Retoure. Das bedeutet, dass Sie 30 Tage das Produkt testen können, um zu kontrollieren, ob es Ihren Ansprüchen entspricht. Es ist ganz einfach ein Produkt umzutauschen oder zu retournieren. Unser Ziel ist es, dass Sie 100% zufrieden sind.  Genauso war es unser Ziel, mit den bald über 300.000 zufriedenen Kunden in Europa, die das originale Anodyne® Posture Shirt innerhalb der letzten 7 Jahre gekauft haben.<\/p>"
+            "title": "Posture clothing with 100% satisfaction guarante",
+            "text": "<p>Peace of mind: At ActivePosture® we always offer free returns and a generous 30-day risk-free trial period of our products. Use your new product for all your everyday activities and find out if it lives up to your expectations. With our 100% satisfaction guarantee you can return the product, despite it being used, within 30 days for a full refund, no questions asked.<\/p>"
           }
         },
         "16595128814be99d47-2": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kinesio.png",
-            "title": "Von Kinesiotape zu haltungskorrigierender Kleidung",
-            "text": "<p><a href=\"https:\/\/anodyne-at.myshopify.com\/collections\/alle-produkte\" title=\"Alle Produkte\"><span style=\"text-decoration:underline\">Haltungskorrektur-Kleidung<\/span><\/a> aktiviert die Muskulatur im Rücken, den Schultern und Schulterblätter, ohne dabei die Muskulatur oder Glieder zu schwächen oder einzuschränken. Die Technologie ist vom Kinesiotape inspiriert - eine häufig von Physiotherapeuten & Chiropraktikern angewendete Behandlungsform, um Schmerzen und Verspannungen in Nacken, Schultern und Rücken zu behandeln. Kinesiotape wird oft von professionellen Athleten verwendet, um spezifische Muskelgruppen zu stimulieren und die Körperhaltung zu verbessern.<\/p>"
+            "image": "shopify:\/\/shop_images\/Kinesio2_copy.png",
+            "title": "From Kinesiotape to patented posture clothing",
+            "text": "<p><a href=\"https:\/\/activeposture-uk.myshopify.com\/collections\/all-products\" title=\"All products\"><span style=\"text-decoration:underline\">Posture corrective clothing<\/span><\/a> activates the back muscles, shoulders and shoulder blades without bracing your muscles or joints. The technology behind ActivePosture's posture clothing is inspired by Kinesiotape - a treatment method often used by physiotherapists and chiropractors to treat pain and tension in the neck, shoulders and back. Kinesiotaping is also frequently used by professional athletes to stimulate specific muscle groups and for posture correction.<\/p>"
           }
         }
       },
@@ -322,9 +322,9 @@
         "1659513083303253a7-0": {
           "type": "video",
           "settings": {
-            "video_cover_image": "shopify:\/\/shop_images\/cover_about.jpg",
+            "video_cover_image": "shopify:\/\/shop_images\/Thumbnail_Active_Posture-min_1920x1080_30d887af-7847-468e-bd53-cd17fb5358a5.jpg",
             "title": "",
-            "video_url": "https:\/\/youtu.be\/rWPAplHxWY4",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=VvEpFrl3hZQ",
             "animated_button": true
           }
         }
@@ -336,8 +336,8 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "full_width": false,
-        "title": "Wer ist Anodyne®?",
-        "subtitle": "Sehen Sie sich unser Präsentationsvideo an",
+        "title": "Who are we?",
+        "subtitle": "See our presentation video",
         "section_style": "section-default"
       }
     },
@@ -347,9 +347,9 @@
         "1659513186ec7e9cae-0": {
           "type": "Accordion",
           "settings": {
-            "accordion_title": "Patentierte NeuroBand™-Technologie in haltungskorrigierender Kleidung",
+            "accordion_title": "NeuroBand™-technology",
             "accordion__inner-title": "",
-            "accordion__description": "Anodyne® haltungskorrigierende Bekleidung ist hergestellt aus einer einzigartigen Kombination aus Spandex, Polyester und Nylon – eine einzigartige Zusammensetzung die ein widerstandsfähiges und atmungsaktives Posture Shirt™ ergibt, welches seine Elastizität bei täglichem Gebrauch bewahrt. Designed mit der patentierten NeuroBand™-Technologie, inspiriert von Kinesiotape und basierend auf wissenschaftlicher Forschung der menschlichen Physiologie. Die Kleidung wurde auf eine einzigartige Weise designed, um die kontrahierenden Eigenschaften der Muskulatur widerzuspiegeln und eine aufrechtere Körperhaltung zu unterstützen.",
+            "accordion__description": "Posture clothing from ActivePosture® is manufactured using a unique composition of polyester, spandex and nylon which makes the clothing durable and breathable while keeping its elasticity, as well as being comfortable to wear. It is designed with the patented NeuroBand™ technology, which is inspired by Kinesiotape. The clothes aim to reflect the contraction and expansion of the muscles to promote natural posture correction.",
             "accordion__buttontext": "shop",
             "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
           }
@@ -357,9 +357,9 @@
         "1659513186ec7e9cae-1": {
           "type": "Accordion",
           "settings": {
-            "accordion_title": "Haltungskorrigierende Kleidung nach Ihren Bedürfnissen",
+            "accordion_title": "Posture clothing for your needs",
             "accordion__inner-title": "",
-            "accordion__description": "Haltungskorrigierende Kleidung von Anodyne® eignet sich als Unterstützung in diversen Alltagssituationen. Wir vertreiben haltungskorrigierende T-Shirts, BH´s und Westen, die alle entwickelt wurden, um die Blutzirkulation anzuregen und die Muskulatur zu aktivieren, und dadurch zu einer optimalen Körperhaltung zu verhelfen. Anodyne® haltungskorrigierende Kleidung kann jederzeit genutzt werden: im Office, beim Training, Einkaufen, Spazierengehen, Saubermachen und diversen anderen Aktivitäten. Um den optimalen Effekt Ihrer Anodyne®-haltungskorrigierender Kleidung zu erhalten, empfehlen wir die beiliegende Gebrauchsanweisung gründlich zu lesen. So haben Sie optimale Voraussetzungen das beste Ergebnis mit ihrem Anodyne®-Produkt zu erreichen.",
+            "accordion__description": "Posture clothing from ActivePosture® provide posture support and can be used by anyone. We sell posture correcting t-shirts, bras and vests, all designed for posture correction by helping to activate the muscles and blood circulation and hereby remind the body to hold a better posture. ActivePosture's posture correcting t-shirts and bras can be used at any time; at work, when going for walks, doing your shopping, exercising and all other daily activities. In every kind of activity where you wish for posture support. To get the most out of your posture clothing we recommend that you carefully read the instructions which are enclosed with each product. This way you will be able to get the optimal posture correction effect out of our products.",
             "accordion__buttontext": "shop",
             "accordion__LinkUrl": "shopify:\/\/collections\/all"
           }
@@ -367,11 +367,11 @@
         "3c3108af-7850-4cad-a838-88ed336c741f": {
           "type": "Accordion",
           "settings": {
-            "accordion_title": "Auch für Personen mit Verletzungen",
+            "accordion_title": "Suffer from an injury?",
             "accordion__inner-title": "",
-            "accordion__description": "Haben Sie Beschwerden auf Grund von Verletzungen, z.B. Bandscheibenvorfall, Skoliose, Gicht oder ähnlichem, können Sie gut haltungskorrigierende Kleidung von Anodyne nutzen. Sollte die Verletzung akut sein, sprechen Sie bitte zuerst mit Ihrem Arzt oder Spezialisten. In manchen Fällen kann die haltungskorrigierende Weste von Anodyne (MyLign & SpinalQ Pro) von Vorteil sein, da diese Produkte eine stärkere Stützfunktion haben. Es ist ausgesprochen wichtig, haltungskorrigierende Kleidung in der optimalen Größe zu wählen, da sonst der optimale Effekt nicht erreicht wird. Kontrollieren Sie daher unsere Größenangaben. Zögern Sie nicht, unseren Kundenservice zu kontaktieren, der Sie gerne zu Fragen der Größe und Produktwahl berät.",
-            "accordion__buttontext": "shop",
-            "accordion__LinkUrl": "shopify:\/\/collections\/ruckenstutze"
+            "accordion__description": "If you have an injury, or if you have a spinal disc herniation, scoliosis, arthritis or related condition, you may benefit from wearing posture corrective clothing. If you haven't been given a diagnosis, we strongly recommend consulting a professional to discuss the best way forward for you. Some professionals may recommend our Posture Shirt™ others our Spinal Q, a vest for posture correction with our most powerful support function. Our products are registered as medical devices and as such you have a guarantee that they are safe for you to use. If you need any advice about our products and which one will be best for you, you can always contact the customer service team.",
+            "accordion__buttontext": "see products",
+            "accordion__LinkUrl": "shopify:\/\/collections\/back-support"
           }
         }
       },
@@ -381,7 +381,7 @@
         "3c3108af-7850-4cad-a838-88ed336c741f"
       ],
       "settings": {
-        "title": "Haltungskorrigierende Kleidung von Anodyne®",
+        "title": "Pain relief with posture clothing",
         "section_style": "section-blank"
       }
     },
@@ -390,8 +390,8 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Abonnieren Sie unseren Newsletter",
-        "subtitle": "Melden Sie sich zu unserem Newsletter an und erhalten Sie unsere aktuellen Angebote",
+        "title": "Subscribe to our newsletter",
+        "subtitle": "Sign up for our newsletter and receive regular emails with new products, current offers and competitions.",
         "section_style": "section-default",
         "customer_tag": "newsletter"
       }

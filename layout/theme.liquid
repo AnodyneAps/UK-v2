@@ -187,10 +187,12 @@
     {{ "fancybox.min.css" | asset_url | stylesheet_tag }}  
 
 <!-- Start of Tidio script -->
-<script src="//code.tidio.co/y4ggm28hqjtwd5phf0n7jozlnnlz0dl3.js" async></script>
+
+<script src="//code.tidio.co/9gduvvswqsgejnifgcld0ujmn9e7eiz6.js" async></script> 
+  
 <!-- End of Tidio script -->
-    
-<!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
+
+    <!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
 <script id="sleeknoteScript" type="text/javascript">
 	(function () {
 		var sleeknoteScriptTag = document.createElement("script");
@@ -204,21 +206,15 @@
 <!-- End of Sleeknote signup and lead generation tool - www.sleeknote.com -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1LMEYD3K4N"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2WL0TX2MC3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-1LMEYD3K4N');
+  gtag('config', 'G-2WL0TX2MC3');
 </script>
 
-<!-- magic scrips start  -->
-{% assign scriptNumbers = "Y4Mp9B, naRrbY, x7MvKY, Y3rkln, n1aL5n, B6w5mx, xN2rPx, xyqbbx" | split: ", "%}
-{% for scriptNum in scriptNumbers %}
-<script type="text/javascript" async src="//s.retargeted.co/1/{{scriptNum }}.js"></script>
-{% endfor %}
-<!-- magic scrips end  -->
 {% render 'vitals-loader' %}
 </head>
   <body id="{{ page_title | handle }}"

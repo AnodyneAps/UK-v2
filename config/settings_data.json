@@ -666,25 +666,26 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Kostenlose Rückgabe<\/strong><\/p>"
+              "announcement_text": "<p><strong>Fast delivery with Royal Mail<\/strong><\/p>"
             }
           },
           "c4676b39-a890-441a-b56f-27f60a8d0ad9": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>30 Tage Rückgaberecht<\/strong><\/p>"
+              "announcement_text": "<p><strong>30 days return policy<\/strong><\/p>"
             }
           },
           "82893cc1-5e92-46bd-a94d-7204271ffa01": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Gratis Versand für Einkaufe über 59 €<\/strong><\/p>"
+              "announcement_text": "<p><strong>Free and easy return<\/strong><\/p>"
             }
           },
           "1845e2c6-d475-470e-81ff-6bb64b635172": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "title": "",
               "announcement_text": ""
@@ -724,8 +725,8 @@
           "main_menu_link_list": "main-menu",
           "navigation_type": "right",
           "logo_link": true,
-          "default_logo": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_90519b7e-ca55-4455-82e0-4f56214fff05.png",
-          "mobile_logo": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_90519b7e-ca55-4455-82e0-4f56214fff05.png",
+          "default_logo": "shopify:\/\/shop_images\/ActivePosture_black_small_0bc66f58-9391-4f3c-ba3c-900420d39a5a.png",
+          "mobile_logo": "shopify:\/\/shop_images\/ActivePosture_black_small_0bc66f58-9391-4f3c-ba3c-900420d39a5a.png",
           "default_logo_svg": "",
           "inverted_logo_svg": "",
           "mobile_logo_svg": "",
@@ -757,7 +758,7 @@
               "image": "shopify:\/\/shop_images\/Returns.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Kostenloser Umtausch<\/p>",
+              "text": "<p>30 days return policy<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -772,7 +773,7 @@
               "image": "shopify:\/\/shop_images\/Truck.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Gratis Versand für Einkäufe über €59,00<\/p>",
+              "text": "<p>Free and fast delivery<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -787,7 +788,7 @@
               "image": "shopify:\/\/shop_images\/Smile2.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>30 Tage Rückgaberecht<\/p>",
+              "text": "<p>100% satisfaction guarantee<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -799,10 +800,10 @@
             "type": "text",
             "settings": {
               "title": "",
-              "image": "shopify:\/\/shop_images\/Customerservice_copy.png",
+              "image": "shopify:\/\/shop_images\/Checkmark.png",
               "guarantee_icon": "loyalty",
               "heading_text": "",
-              "text": "<p>Professioneller Service<\/p>",
+              "text": "<p>Free return & exchange<\/p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -829,34 +830,34 @@
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "title": "Kategorier",
+              "title": "Categories",
               "column_width": 1,
-              "heading_text": "Kategorien",
+              "heading_text": "Categories",
               "subtitle": "",
-              "footer_link_list": "categories-menu"
+              "footer_link_list": "footer"
             }
           },
           "0bf661af-2d67-4ed7-9f1e-750e2c09c74e": {
             "type": "link_list",
             "settings": {
-              "title": "Anodyne",
+              "title": "ActivePosture®",
               "column_width": 1,
-              "heading_text": "Anodyne®",
+              "heading_text": "ActivePosture®",
               "subtitle": "",
-              "footer_link_list": "anodyne-menu"
+              "footer_link_list": "activeposture-menu"
             }
           },
           "045bae48-bfff-4e04-a080-14a99dbf2e0c": {
             "type": "text",
             "settings": {
-              "title": "Kontakt",
+              "title": "contact",
               "column_width": 1,
               "svg": "",
               "img_url": "",
               "logo_width": 150,
-              "heading_text": "Kontakt",
+              "heading_text": "Contact",
               "subtitle": "",
-              "text": "<p>Anodyne.at<\/p><p><strong>Mon - Don<\/strong>: 10:00 - 16:00<br\/><strong>Freitag:<\/strong> 10:00 - 15:00<\/p>",
+              "text": "<p>ActivePosture.co.uk<\/p><p><strong>Mon. - Thurs: <\/strong>9am. -3pm.<\/p><p><strong>Fri:<\/strong> 9am. -2pm.<\/p>",
               "email": true,
               "phone": true,
               "show_social_media": false
@@ -870,9 +871,9 @@
               "heading_text": "Socials",
               "subtitle": "",
               "html_area": "",
-              "facebook_link": "https:\/\/www.facebook.com\/anodyne.at",
-              "youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg",
-              "insta_link": "https:\/\/www.instagram.com\/anodyne.at"
+              "facebook_link": "https:\/\/www.facebook.com\/activeposture.co.uk\/",
+              "youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg\/videos",
+              "insta_link": "https:\/\/www.instagram.com\/activeposture.co.uk"
             }
           }
         },
@@ -889,7 +890,7 @@
           "show_payment_icons": true,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Dänemark. USt-IdNr: DK37167053.<\/p>",
+          "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<\/p>",
           "style__selector": "none",
           "product_counter_text": "Wir versenden Ihr Paket in:",
           "date__selector": "none",
