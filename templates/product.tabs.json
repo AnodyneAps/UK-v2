@@ -29,7 +29,7 @@
         "text_alignment": "",
         "text_alignment_mobile": "small--text-center",
         "show_animation_banner": true,
-        "animation_banner_text": "<p><em><strong>Gratis Versand für Einkäufe über €59,00<\/strong><\/em><\/p>",
+        "animation_banner_text": "<p>Free and fast delivery<\/p>",
         "show_discount_notification": false,
         "discount_notification_text": "<p>Vi forlænger returretten frem til <strong>d. 20. jan. 2023<\/strong><\/p>",
         "discount_notification_link": ""
@@ -75,7 +75,7 @@
       "type": "product-recommendations",
       "settings": {
         "show_product_recommendations": true,
-        "title": "Für Sie empfohlen",
+        "title": "Recommended for you",
         "subtitle": "",
         "section_style": "section-border",
         "rows": "2",
@@ -90,7 +90,8 @@
     },
     "review-widget": {
       "type": "product-review-widget",
-      "settings": {}
+      "settings": {
+      }
     },
     "related-products": {
       "type": "related-products",
@@ -115,7 +116,8 @@
     },
     "back-to-collection": {
       "type": "product-back-to-collection",
-      "settings": {}
+      "settings": {
+      }
     }
   },
   "order": [

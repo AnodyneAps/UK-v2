@@ -1,5 +1,5 @@
-{% comment %} {% unless section.settings.date__selector == "none" %} {% endunless%} {% endcomment %}
-	<div id="flipFlopBottom" class="flip-container" data-set-date="{{section.settings.date__selector}}">
+{% unless section.settings.date__selector == "none" %}
+	<div id="flipFlop" class="flip-container" data-collect-date="{{section.settings.date__selector}}">
 		<span class="flip-outer-text">{%- if section.settings.bottom_counter_text != blank -%}
 			{{section.settings.bottom_counter_text -}}{%- endif -%}</span> 
 			<div class="flip-container-inner">
@@ -75,4 +75,4 @@
 				<span class="close__btn"></span>
 			</div>
 	</div>
-{
+{% endunless %}

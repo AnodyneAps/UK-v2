@@ -6,10 +6,10 @@
         "show_on_desktop": true,
         "show_on_mobile": true,
         "full_width": true,
-        "image": "shopify:\/\/shop_images\/Vision_bd4a16a0-3599-4edb-a4e6-f24ab31ed395.jpg",
+        "image": "shopify:\/\/shop_images\/Vision.jpg",
         "section_style": "section-blank",
         "wrapper__height": 360,
-        "image_title": "<p><strong>Vores vision<\/strong><\/p>",
+        "image_title": "<p><strong>Our vision<\/strong><\/p>",
         "image_subtitle": "",
         "image_btntext": "",
         "image_link": "",
@@ -23,7 +23,7 @@
           "type": "html",
           "settings": {
             "mission_title": "",
-            "mission_description": "<div style=\"margin:2rem 0;\">\n<h1>Vi vil gøre en forskel<\/h1>\n<p>For mange er en sund kropsholdning vejen til et bedre liv. Uanset om man døjer med periodevise spændinger ved skrivebordet eller lider af kroniske smerter, er en sund kropsholdning noget, der kan være med til at lette hverdagen. Derfor tager vi vores kunder og deres situation seriøst og arbejder benhårdt for at hjælpe dem med at forbedre deres kropsholdning.<\/p>\n<\/div>",
+            "mission_description": "<br><h1>We want to make a difference<\/h1><div style=\"margin-bottom:-20px\">To many, a healthier posture can be the way to a better life. Whether you suffer from occasional tension or chronic pain, a healthy posture can ease everyday discomfort. That's why we take our customers’ situation seriously and work hard to help them improve their posture.<\/div>",
             "column_width": 12,
             "column_width_mobile": 12,
             "text_alignment": "text-center",
@@ -50,7 +50,7 @@
           "type": "html",
           "settings": {
             "title": "",
-            "code": "<div style=\"padding-left:55px; padding-right:55px;\">\n<img src=\"https:\/\/i.ibb.co\/n1XdwZ4\/Purpose2.gif\" style=\"max-width:100px; width:100%\">\n<h2>Formål<\/h2>\n<p>Vi eksisterer for at forbedre kropsholdning, lindre smerter og øge livskvaliteten for vores kunder.<\/p>\n<\/div>",
+            "code": "<div style=\"padding-left:55px;padding-right:55px\">\n<img src=\"https:\/\/i.ibb.co\/n1XdwZ4\/Purpose2.gif\" alt=\"Purpose\" style=\"max-width:100px;width:100%\"><h2>Purpose<\/h2>\n<p>We exist to improve posture, relieve pain, and increase quality of life for our clients.<\/p>\n<\/div>",
             "column_width": 6,
             "column_width_mobile": 12,
             "text_alignment": "text-center"
@@ -60,7 +60,7 @@
           "type": "html",
           "settings": {
             "title": "",
-            "code": "<div style=\"padding-left:55px; padding-right:55px;\">\n<img src=\"https:\/\/i.ibb.co\/FgjcrpD\/Ambition2.gif\" style=\"max-width:100px; width:100%\">\n<h2>Ambition<\/h2>\n<p>Vi vil være den mest pålidelige og foretrukne leverandør af effektivt holdningskorrigerende tøj i hele Europa..<\/p>\n<\/div>",
+            "code": "<div style=\"padding-left:55px;padding-right:55px\">\n<img src=\"https:\/\/i.ibb.co\/FgjcrpD\/Ambition2.gif\" alt=\"ambitions\" style=\"max-width:100px;width:100%\"><h2>Ambition<\/h2>\n<p>We want to be the most reliable and preferred supplier of effective posture correcting clothing in all of Europe.<\/p>\n<\/div>",
             "column_width": 6,
             "column_width_mobile": 12,
             "text_alignment": "text-center"
@@ -86,32 +86,32 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Integrity.png",
-            "title": "Bevar integriteten",
-            "text": "<p>Vi er respektfulde og ærlige overfor vores kunder.<\/p>"
+            "title": "Maintain integrity",
+            "text": "<p>We are respectful and honest with our customers.<\/p>"
           }
         },
         "1663677295ba56017e-1": {
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Quality.png",
-            "title": "Fokus på kvalitet",
-            "text": "<p>Vores produkter virker og holder i mange år.<\/p>"
+            "title": "Focus on quality",
+            "text": "<p>Our products work and last for years.<\/p>"
           }
         },
         "1663677295ba56017e-2": {
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Target.png",
-            "title": "Gør det enkelt",
-            "text": "<p>Vi gør det nemt at finde det helt rigtige produkt.<\/p>"
+            "title": "Make it simple",
+            "text": "<p>We make it easy to find the exact right product.<\/p>"
           }
         },
         "f97af3f9-1518-4821-bef4-2273e327c1e4": {
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Feedback.png",
-            "title": "Lyt til kunden",
-            "text": "<p>Vi holder fingeren på pulsen og lytter til vores kunders feedback.<\/p>"
+            "title": "Listen to the customer",
+            "text": "<p>We adapt to the market and<br\/>listen to customer feedback.<\/p>"
           }
         }
       },
@@ -124,8 +124,8 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Vores værdier",
-        "subtitle": "Hos Anodyne har vi fire kerneværdier, som guider alle vores beslutninger og sikrer, at vi altid leverer den samme gode service.",
+        "title": "Our values",
+        "subtitle": "At ActivePosture® we have four core values that guide all our decisions and ensure we always deliver the same great service.",
         "section_style": "section-default",
         "text_align": "text-center"
       }
@@ -135,7 +135,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Mest solgte",
+        "title": "Bestsellers",
         "subtitle": "",
         "section_style": "section-blank",
         "home_featured_products": "posture-shirt",

@@ -13,13 +13,13 @@
         "text_size": "medium",
         "text_description": "<p><strong>Improve your posture with our patented technology<\/strong><\/p>",
         "text_description_size": "medium",
-        "button_label": "Männer",
-        "button_link": "shopify:\/\/collections\/manner",
-        "second_button_label": "Frauen",
-        "second_button_link": "shopify:\/\/collections\/frauen",
+        "button_label": "Men",
+        "button_link": "shopify:\/\/collections\/men",
+        "second_button_label": "Women",
+        "second_button_link": "shopify:\/\/collections\/women",
         "show_scrolldown": true,
         "show_emark": false,
-        "bottom_counter_text": "We pack your order within:",
+        "bottom_counter_text": "We send your order in:",
         "show_bottom_counter": true
       }
     },
@@ -85,7 +85,7 @@
             "title": "Try it for 30 days",
             "description": "No strings attached! Return any product within 30 days",
             "icon": "shopify:\/\/shop_images\/Checkmark.png",
-            "uspLinkUrl": "shopify:\/\/pages\/shipping-and-return"
+            "uspLinkUrl": "shopify:\/\/pages\/our-vision"
           }
         }
       },
@@ -259,7 +259,7 @@
         "title": "Most popular products",
         "subtitle": "",
         "section_style": "section-blank",
-        "home_featured_products": "all-products",
+        "home_featured_products": "posture-shirt",
         "rows": "2",
         "desktop_grid": "4",
         "mobile_grid": "2",

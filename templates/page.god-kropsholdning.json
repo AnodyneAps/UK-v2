@@ -1,0 +1,224 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "248b1c7b-1e54-4d87-9f51-155bdfa395b6": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Artboard_2.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Healthy posture<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "d89213a8-f099-4570-a74c-cf254ee8c282": {
+      "type": "mission",
+      "blocks": {
+        "template--15994598162621__d89213a8-f099-4570-a74c-cf254ee8c282-1667417291b10a370c-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h1>Benefits of good posture<\/h1><div style=\"padding-left:20px;padding-right:20px\">\n<p>Most of us know that a healthy posture is important whether we are sitting, standing or moving. But why? There are many reasons why you should care about your posture. Here we've highlighted the six main physical and mental benefits of a healthy posture.<\/p>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15994598162621__d89213a8-f099-4570-a74c-cf254ee8c282-1667417291b10a370c-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "7e4a7e94-8778-4ecd-b29a-54eae320d4dd": {
+      "type": "custom-html",
+      "blocks": {
+        "template--15994598162621__7e4a7e94-8778-4ecd-b29a-54eae320d4dd-1667417297caaea778-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Eases pain\n<\/h2>\n<p>Healthy posture can relieve tension and pain in your back, shoulders and neck.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "c1bf830c-351a-4dd5-9c5e-21d29aa40858": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Prevents injuries<\/h2>\n<p>Helps prevent you from having problems with pain in the future.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "f504f478-1647-4474-8a35-cb39fd647ec3": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Relieves body<\/h2>\n<p>Relaxes stressed muscle groups and relieves tension in neck, shoulders, and lower back.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "0428e445-100f-4885-b0f8-b6110dc60be9": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/bLg6Mnn\/Smile.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Improves mood<\/h2>\n<p>Healthy posture contributes to a better mood and more energy in everyday life.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "74591299-4ad5-4a6a-9204-4048216e370c": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/KV56kZB\/Radiance.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Improves appearance<\/h2>\n<p>Good posture improves our appearance and always leaves a good impression.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "ebc718cc-ab0d-4144-9838-35f46f4b0b1a": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BsTXCGL\/Confidence.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Boosts self-confidence<\/h2>\n<p>A healthy posture makes us feel more confident.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15994598162621__7e4a7e94-8778-4ecd-b29a-54eae320d4dd-1667417297caaea778-0",
+        "c1bf830c-351a-4dd5-9c5e-21d29aa40858",
+        "f504f478-1647-4474-8a35-cb39fd647ec3",
+        "0428e445-100f-4885-b0f8-b6110dc60be9",
+        "74591299-4ad5-4a6a-9204-4048216e370c",
+        "ebc718cc-ab0d-4144-9838-35f46f4b0b1a"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "dd17e34a-8665-4ec4-8e6f-0864d0f270c2": {
+      "type": "featured-columns",
+      "blocks": {
+        "template--15994598162621__dd17e34a-8665-4ec4-8e6f-0864d0f270c2-1667417312fbb73803-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Traening.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Exercise and strength training",
+            "text": "<p>Tight and weak muscles are often the cause of poor posture, as they are unable to hold the upper body in place.<br\/>That's why stretching and strength training exercises and are a good way to improve posture. If you need some easy everyday exercises, we've recently produced a video with effective exercises in collaboration with chiropractor Michael Justad.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "Watch Video",
+            "button_link": "shopify:\/\/pages\/exercises"
+          }
+        },
+        "template--15994598162621__dd17e34a-8665-4ec4-8e6f-0864d0f270c2-1667417312fbb73803-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Image_woman_and_man_0003_720x480_2635fbb3-799e-4c4c-8395-aba5219972c2.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Posture correcting clothes",
+            "text": "<p>Many people find it difficult to remember good posture in everyday life, which has made posture correcting clothing a very popular solution. Our best-selling product is our Posture Shirt™, which uses a gentle pull on the shoulder strap to remind you to straighten up when your shoulders begin to slouch. The flexibility of the Posture Shirt makes it effective and comfortable to wear - both when seated and physically active.<\/p>",
+            "button_style": "",
+            "button_label": "View sellection",
+            "button_link": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "template--15994598162621__dd17e34a-8665-4ec4-8e6f-0864d0f270c2-1667417312fbb73803-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mand_i_sofa_med_skulderstotte_720x480_590d5aa9-5a0f-422b-a414-92648e55b475.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Other posture correcting products",
+            "text": "<p>In addition to our Posture Shirt™, we also sell a range of other posture correcting products, such as shoulder braces, lumbar belts and back cushions. <br\/><br\/>These products are primarily suitable for use in sitting and standing situations where body movement is restricted - for example sitting at a desk, in the couch or while cooking.<br\/><\/p>",
+            "button_style": "",
+            "button_label": "View sellection",
+            "button_link": "shopify:\/\/collections\/back-support"
+          }
+        }
+      },
+      "block_order": [
+        "template--15994598162621__dd17e34a-8665-4ec4-8e6f-0864d0f270c2-1667417312fbb73803-0",
+        "template--15994598162621__dd17e34a-8665-4ec4-8e6f-0864d0f270c2-1667417312fbb73803-1",
+        "template--15994598162621__dd17e34a-8665-4ec4-8e6f-0864d0f270c2-1667417312fbb73803-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "How do you improve your posture?",
+        "subtitle": "",
+        "section_style": "section-default",
+        "text_align": ""
+      }
+    },
+    "e53dddd0-1a62-46df-bcfa-3872da4e17f3": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bestsellers",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "all-products",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "248b1c7b-1e54-4d87-9f51-155bdfa395b6",
+    "d89213a8-f099-4570-a74c-cf254ee8c282",
+    "7e4a7e94-8778-4ecd-b29a-54eae320d4dd",
+    "dd17e34a-8665-4ec4-8e6f-0864d0f270c2",
+    "e53dddd0-1a62-46df-bcfa-3872da4e17f3"
+  ]
+}

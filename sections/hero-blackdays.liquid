@@ -28,6 +28,9 @@
 
       <div class="hero-fixed-width__content">
         <div class="page-width text-center">
+          {%- if section.settings.video_title != blank -%}
+						<h2 class="h1 mega-title{% if section.settings.text_size == 'large' %} mega-title--large{% endif %}">{{ section.settings.video_title }}</h2>
+					{%- endif -%}
           {%- unless section.settings.svg_selector == 'none' -%}
             <h2 class="h1 black-title">{%- render 'icon' with {{section.settings.svg_selector}} -%}
             </h2>

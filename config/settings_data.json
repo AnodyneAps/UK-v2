@@ -29,7 +29,7 @@
     "browsing_link": "shopify:\/\/collections\/alle-produkte",
     "zindex_drawer": "999",
     "cart_message_enable": false,
-    "textbox_cart_notification": "<strong>Unsere Garantie:<\/strong> Testen Sie unsere Produkte in aller Ruhe während 30 Tagen. Der Rückversand bei Anodyne® ist kostenfrei.",
+    "textbox_cart_notification": "<strong>Our guarantee:<\/strong> We offer a 30 day no-nonsense return policy + free return shipping. We always want you to be 100% happy with your purchase!",
     "textbox_custom_drawer_icon": "",
     "cart_notes_enable": false,
     "color_announcement_bg": "#353535",
@@ -115,7 +115,7 @@
     "dbtfy_recently_viewed": false,
     "dbtfy_size_chart": false,
     "dbtfy_agree_to_terms": true,
-    "agree_to_terms_text": "<p>Ich akzeptiere die <a href=\"https:\/\/www.anodyne.at\/policies\/terms-of-service\" title=\"https:\/\/www.anodyne.at\/policies\/terms-of-service\">Geschäftsbedingungen<\/a><\/p>",
+    "agree_to_terms_text": "<p>I accept the <a href=\"https:\/\/www.activeposture.co.uk\/policies\/terms-of-service\" title=\"https:\/\/www.activeposture.co.uk\/policies\/terms-of-service\">terms & conditions<\/a><\/p>",
     "dbtfy_cookie_box": false,
     "dbtfy_shop_protect": false,
     "dbtfy_addtocart_animation_type": "shakeX",
@@ -136,7 +136,7 @@
     "dbtfy_trust_badge_cart": false,
     "dbtfy_trust_badge_text_small": true,
     "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/no_betaling.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Anodyne_logo_default_medium_90519b7e-ca55-4455-82e0-4f56214fff05.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/ActivePosture_black_small_0bc66f58-9391-4f3c-ba3c-900420d39a5a.png",
     "checkout_accent_color": "#398e82",
     "checkout_button_color": "#398e82",
     "hero_header": false,
@@ -714,8 +714,8 @@
           "show_social": false,
           "email": true,
           "phone": true,
-          "left_message": "<p>Wir optimieren Ihre Körperhaltung<\/p>",
-          "right_message": "<p><a href=\"\/pages\/kontakt\" target=\"_blank\" title=\"Kontakt\">Kontakt<\/a><\/p>",
+          "left_message": "<p>We improve your posture<\/p>",
+          "right_message": "<p><a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"Contact us\">Contact<\/a><\/p>",
           "announcement_autoplayspeed": 5
         }
       },
@@ -887,12 +887,12 @@
           "show_social_media": false,
           "social_media_position_desktop": "center",
           "social_title": "Follow-us on social media!",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
           "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<\/p>",
           "style__selector": "none",
-          "product_counter_text": "Wir versenden Ihr Paket in:",
+          "product_counter_text": "We send your order in:",
           "date__selector": "none",
           "show_product_counter": true
         }
@@ -1172,10 +1172,10 @@
       "dbtfy-cart-goal": {
         "type": "dbtfy-cart-goal",
         "settings": {
-          "dbtfy_cart_goal_before_text": "Noch",
-          "dbtfy_cart_goal_amount": "59",
-          "dbtfy_cart_goal_after_text": "bis gratis Versand.",
-          "dbtfy_cart_goal_reached_text": "Gratis Versand!",
+          "dbtfy_cart_goal_before_text": "Still",
+          "dbtfy_cart_goal_amount": "0",
+          "dbtfy_cart_goal_after_text": "to go for free shipping!",
+          "dbtfy_cart_goal_reached_text": "Free shipping!",
           "dbtfy_cart_goal_icons": "local_shipping"
         }
       },
@@ -1205,6 +1205,15 @@
       "163032806406e9f003",
       "1630331223d20499c6",
       "1630404145a76c9e4d"
-    ]
+    ],
+    "blocks": {
+      "XnmwydGCVjcICopmL6": {
+        "type": "shopify:\/\/apps\/drip-email-marketing\/blocks\/drip_shopify_snippet\/0c4de56d-b2fa-4621-acea-6293bc16aba8",
+        "disabled": false,
+        "settings": {
+          "account_param": "2840179"
+        }
+      }
+    }
   }
 }
