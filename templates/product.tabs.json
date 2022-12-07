@@ -30,8 +30,8 @@
         "text_alignment_mobile": "small--text-center",
         "show_animation_banner": true,
         "animation_banner_text": "<p>Free and fast delivery<\/p>",
-        "show_discount_notification": false,
-        "discount_notification_text": "<p>Vi forlænger returretten frem til <strong>d. 20. jan. 2023<\/strong><\/p>",
+        "show_discount_notification": true,
+        "discount_notification_text": "<p>You can buy Christmas gifts - We're extending the return policy until <strong>24 January 2023<\/strong><\/p>",
         "discount_notification_link": ""
       }
     },
@@ -78,6 +78,7 @@
         "title": "Recommended for you",
         "subtitle": "",
         "section_style": "section-border",
+        "style__selector": "none",
         "rows": "2",
         "desktop_grid": "4",
         "mobile_grid": "2",

@@ -431,79 +431,81 @@
         "blocks": {
           "044ae220-77bb-4e0f-bf98-ca576e03c1e0": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "title": "Basic skulderstøtte tilkøb",
               "specific_upsell_replace_item_1": "add",
-              "specific_upsell_title_1": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_1": "anodyne-bh",
-              "specific_upsell_product_offer_1": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_1": "Tilføj",
+              "specific_upsell_title_1": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_1": "womens-posture-shirt-white",
+              "specific_upsell_product_offer_1": "posture-brace-basic",
+              "specific_upsell_btn_title_1": "Add",
               "specific_upsell_replace_item_2": "add",
-              "specific_upsell_title_2": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
+              "specific_upsell_title_2": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
               "specific_upsell_product_trigger_2": "womens-posture-shirt-nude",
-              "specific_upsell_product_offer_2": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_2": "Tilføj",
+              "specific_upsell_product_offer_2": "posture-brace-basic",
+              "specific_upsell_btn_title_2": "Add",
               "specific_upsell_replace_item_3": "add",
-              "specific_upsell_title_3": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_3": "womens-posture-shirt-hvid",
-              "specific_upsell_product_offer_3": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_3": "Tilføj",
+              "specific_upsell_title_3": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_3": "womens-posture-shirt-black",
+              "specific_upsell_product_offer_3": "posture-brace-basic",
+              "specific_upsell_btn_title_3": "Add",
               "specific_upsell_replace_item_4": "add",
-              "specific_upsell_title_4": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_4": "womens-posture-shirt-sort",
-              "specific_upsell_product_offer_4": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_4": "Tilføj",
+              "specific_upsell_title_4": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_4": "womens-posture-shirt-zipper-black",
+              "specific_upsell_product_offer_4": "posture-brace-basic",
+              "specific_upsell_btn_title_4": "Add",
               "specific_upsell_replace_item_5": "add",
-              "specific_upsell_title_5": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_5": "womens-posture-shirt-zipper-sort",
-              "specific_upsell_product_offer_5": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_5": "Tilføj",
+              "specific_upsell_title_5": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_5": "womens-posture-shirt-zipper-white",
+              "specific_upsell_product_offer_5": "posture-brace-basic",
+              "specific_upsell_btn_title_5": "Add",
               "specific_upsell_replace_item_6": "add",
-              "specific_upsell_title_6": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_6": "womens-posture-shirt-zipper-hvid",
-              "specific_upsell_product_offer_6": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_6": "Tilføj",
+              "specific_upsell_title_6": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_6": "mens-posture-shirt-black",
+              "specific_upsell_product_offer_6": "posture-brace-basic",
+              "specific_upsell_btn_title_6": "Add",
               "specific_upsell_replace_item_7": "add",
-              "specific_upsell_title_7": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_7": "womens-posture-shirt-zipper-nude",
-              "specific_upsell_product_offer_7": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_7": "Tilføj",
+              "specific_upsell_title_7": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_7": "mens-posture-shirt-white",
+              "specific_upsell_product_offer_7": "posture-brace-basic",
+              "specific_upsell_btn_title_7": "Add",
               "specific_upsell_replace_item_8": "add",
-              "specific_upsell_title_8": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_8": "mens-posture-shirt-hvid",
-              "specific_upsell_product_offer_8": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_8": "Tilføj",
+              "specific_upsell_title_8": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_8": "mens-posture-shirt-zipper-black",
+              "specific_upsell_product_offer_8": "posture-brace-basic",
+              "specific_upsell_btn_title_8": "Add",
               "specific_upsell_replace_item_9": "add",
-              "specific_upsell_title_9": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_9": "mens-posture-shirt-sort",
-              "specific_upsell_product_offer_9": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_9": "Tilføj",
+              "specific_upsell_title_9": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_9": "mens-posture-shirt-zipper-white",
+              "specific_upsell_product_offer_9": "posture-brace-basic",
+              "specific_upsell_btn_title_9": "Add",
               "specific_upsell_replace_item_10": "add",
-              "specific_upsell_title_10": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_10": "mens-posture-shirt-zipper-sort",
-              "specific_upsell_product_offer_10": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_10": "Tilføj"
+              "specific_upsell_title_10": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_10": "activeposture-bra",
+              "specific_upsell_product_offer_10": "posture-brace-basic",
+              "specific_upsell_btn_title_10": "Add"
             }
           },
           "f98348a9-d1df-4a7e-a63e-6125fd7063fd": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "title": "Basic Skulderstøtte tilkøb",
               "specific_upsell_replace_item_1": "add",
-              "specific_upsell_title_1": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_1": "mens-posture-shirt-zipper-hvid",
-              "specific_upsell_product_offer_1": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_1": "Tilføj",
+              "specific_upsell_title_1": "<strong>Save 45%<\/strong>- add a Posture Brace Basic for just £18.95 (normal price £34.95)",
+              "specific_upsell_product_trigger_1": "lumbar-support-belt",
+              "specific_upsell_product_offer_1": "posture-brace-basic",
+              "specific_upsell_btn_title_1": "Add",
               "specific_upsell_replace_item_2": "add",
-              "specific_upsell_title_2": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_2": "laendebaelte",
-              "specific_upsell_product_offer_2": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_2": "Tilføj",
+              "specific_upsell_title_2": "",
+              "specific_upsell_product_trigger_2": "",
+              "specific_upsell_product_offer_2": "",
+              "specific_upsell_btn_title_2": "",
               "specific_upsell_replace_item_3": "add",
-              "specific_upsell_title_3": "<strong>Spar 33%! <\/strong>Tilføj en Skulderstøtte Basic. Nu kun 199 kr (normal 299 kr).",
-              "specific_upsell_product_trigger_3": "ergonomisk-rygpude",
-              "specific_upsell_product_offer_3": "skulderstotte-basic-tilkob",
-              "specific_upsell_btn_title_3": "Tilføj",
+              "specific_upsell_title_3": "",
+              "specific_upsell_product_trigger_3": "",
+              "specific_upsell_product_offer_3": "",
+              "specific_upsell_btn_title_3": "",
               "specific_upsell_replace_item_4": "add",
               "specific_upsell_title_4": "",
               "specific_upsell_product_trigger_4": "",
@@ -543,6 +545,7 @@
           },
           "fb027f97-5a8a-44a9-bcf2-efa1af2dc099": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "title": "Knæbind tilkøb",
               "specific_upsell_replace_item_1": "add",
@@ -666,37 +669,37 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Fast delivery with Royal Mail<\/strong><\/p>"
+              "announcement_text": "<p>Fast delivery with Royal Mail<\/p>"
             }
           },
           "c4676b39-a890-441a-b56f-27f60a8d0ad9": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>30 days return policy<\/strong><\/p>"
+              "announcement_text": "<p>Extended return period until 24 Jan 2023<\/p>"
             }
           },
           "82893cc1-5e92-46bd-a94d-7204271ffa01": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Free and easy return<\/strong><\/p>"
+              "announcement_text": "<p>Free and easy return<\/p>"
             }
           },
           "1845e2c6-d475-470e-81ff-6bb64b635172": {
             "type": "message",
             "disabled": true,
             "settings": {
-              "title": "",
-              "announcement_text": ""
+              "title": "Black Days",
+              "announcement_text": "<p><strong>Cyber Days<\/strong> - Save up to 50%<\/p>"
             }
           },
           "ed921cc9-429d-455b-86d4-1b6382ef61e7": {
             "type": "message",
             "disabled": true,
             "settings": {
-              "title": "",
-              "announcement_text": "<p><strong>SPAR 25%<\/strong> på alle produkter<\/p>"
+              "title": "Black Days",
+              "announcement_text": "<p><strong>Cyber Days <\/strong>- It doesn't get any cheaper<\/p>"
             }
           }
         },
@@ -716,7 +719,7 @@
           "phone": true,
           "left_message": "<p>We improve your posture<\/p>",
           "right_message": "<p><a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"Contact us\">Contact<\/a><\/p>",
-          "announcement_autoplayspeed": 5
+          "announcement_autoplayspeed": 3
         }
       },
       "header": {
@@ -725,7 +728,7 @@
           "main_menu_link_list": "main-menu",
           "navigation_type": "right",
           "logo_link": true,
-          "default_logo": "shopify:\/\/shop_images\/ActivePosture_black_small_0bc66f58-9391-4f3c-ba3c-900420d39a5a.png",
+          "default_logo": "shopify:\/\/shop_images\/ActivePosture_black_medium_69f4f618-3398-4c62-9820-76bdee3b08a1.png",
           "mobile_logo": "shopify:\/\/shop_images\/ActivePosture_black_small_0bc66f58-9391-4f3c-ba3c-900420d39a5a.png",
           "default_logo_svg": "",
           "inverted_logo_svg": "",
@@ -892,7 +895,7 @@
           "show_debutify_footer": false,
           "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<\/p>",
           "style__selector": "none",
-          "product_counter_text": "We send your order in:",
+          "product_counter_text": "We repack your order in:",
           "date__selector": "none",
           "show_product_counter": true
         }
