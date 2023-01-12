@@ -111,7 +111,6 @@
             {%- endif -%}
           {%- endcapture -%}
 
-          {%- if settings.dbtfy_discount_saved -%}
             <span class="badge triangle__badge grid-product__badge grid-product__badge-{{ settings.tag_placement }}">
               {%- comment -%}
                 you can add a disount price amount with porcent tag{{ discount_price }}
@@ -135,7 +134,6 @@
                 <span class="triangle_porcent_v2">%</span>
               {% endif %}
             </span>
-          {%- endif -%}
 
         {%- endif -%}
       {%- endunless -%}
@@ -244,17 +242,4 @@
       </div>
     {%- endif -%}
   </div>
-
-  {%- if settings.dbtfy_sales_countdown -%}
-    <script type="application/json" class="productCardJson">
-      {
-        "collections": {{ product.collections | json }},
-        "compare_at_price": {{ product.compare_at_price | json }},
-        "id": {{ product.id | json }},
-        "price": {{ product.price | json }},
-        "tags": {{ product.tags | json }},
-        "type": {{ product.type | json }}
-      }
-    </script>
-  {%- endif -%}
 </div>

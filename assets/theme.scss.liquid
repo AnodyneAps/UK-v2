@@ -3,7 +3,7 @@
 
 Theme Name: Debutify
 Theme Author: Debutify
-Theme Version: 4.10.0
+Theme Version: 4.10.2
 Theme URI: https://debutify.com
 Theme Documentation: https://help.debutify.com
 Terms of use: https://debutify.com/terms-of-use
@@ -156,7 +156,6 @@ _App_style
   _shopify_digital_downloads
 */
 {% endcomment %}
-
 
 /*============================================================================
   _Font_face
@@ -2969,7 +2968,9 @@ textarea {
     display: inline-block !important;
   }
 }
-
+.cart_savings-wrapper-text .money {
+color: $cAccent !important;
+}
 /*================ _Fieldset ================*/
 fieldset {
   margin: 0;
@@ -3459,11 +3460,12 @@ button {
   .list-product & {
     max-width: calc(100% - #{$gutter-sm});
   }
-  &.badge__first{
+  &.badge__first {
     color: lighten($cAccent, 10%);
     font-weight:600;
-    padding:5px 10px;
+    padding:6px 12px;
     background-color: $blackdays;
+    margin-left: 10px;
     .badge__first-text{
       color: $white;
     }
@@ -7325,6 +7327,10 @@ cite {
   @include display-flexbox();
   @include align-items(center);
   @include justify-content(center);
+  height: 100%;
+  position: absolute;
+  z-index: 22;
+  background: #f7f7f7;
 
   .ajaxcart--is-loaded & {
     display: none;
@@ -7973,6 +7979,7 @@ body {
 .text-small {font-size: $baseFontSize-sm}
 .text-md {font-size: $baseFontSize-md; font-weight: 600 !important}
 .text-large {font-size: $baseFontSize-lg; font-weight: 600 !important}
+.cart-price-text{font-size: $baseFontSize-md; font-weight: 600 !important}
 .text-link {@include linkStyle}
 .text-lead {@include leadFontStack}
 .text-accent {@include accentFontStack}
@@ -8562,18 +8569,20 @@ body {
       background-color: $colorDefault;
     }
   }
+    .cu-flex-direction{
+        width: 100%;
+    .cu-product-select {
+        margin-right: $spacer-sm;
+        @include flex(auto);
+    }
 
-  .cu-product-select {
-    margin-right: $spacer-sm;
-    width: 120px;
-    @include flex(auto);
-  }
+    .cu-product-button {
+        max-width: 82px;
+        font-size:0.8rem;
+        margin-top:6px;
+    }
+}
 
-  .cu-product-button {
-    max-width: 132px;
-    font-size:0.677rem;
-    margin-top:6px;
-  }
 }
 {%- endif -%}
 /* end-dbtfy-cart-upsell */
@@ -10822,7 +10831,7 @@ body:not(.dbtfy-wish_list-destroy) {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .videoblock .video__overlay.cyber__overlay {
   content: '';
@@ -10832,7 +10841,7 @@ body:not(.dbtfy-wish_list-destroy) {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 .videoblock .hero-fixed-width__content {
   position: absolute;
@@ -11395,32 +11404,30 @@ body:not(.dbtfy-wish_list-destroy) {
               transform: rotateX(0deg);
     }
   }
-/* -----product counter---------- */
-  .product-counter-container{
-    border-radius: 5px;
-    background-color: #f3f3f3;
-    border: 1px solid #f9f9f9;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom:$gutter-sm;
-    gap:10px;
-    p {
-      padding-top:13px;
-      font-weight:600;
-    }
-    .inner{
-      color: $cAccent;
-      font-weight: bold;
-    }
-    #product__counter{
-      display:flex;
-      justify-content: flex-start;
-      align-items: center;
-  
-    }
+.product-counter-container{
+  border-radius: 5px;
+  background-color: #f3f3f3;
+  border: 1px solid #f9f9f9;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom:$gutter-sm;
+  gap:10px;
+  p {
+    padding-top:13px;
+    font-weight:600;
   }
+  .inner{
+    color: $cAccent;
+    font-weight: bold;
+  }
+  #product__counter{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
 
+  }
+}
 .profile {
   .profile__item{
     width: 100%;
@@ -12460,3 +12467,5 @@ body:not(.dbtfy-wish_list-destroy) {
     }
   }
 }
+{% comment %} tidio chat replace  {% endcomment %}
+#tidio-chat-iframe {bottom: 50px !important}

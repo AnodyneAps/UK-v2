@@ -1,6 +1,5 @@
 <div class="" data-section-id="{{ section.id }}" data-section-type="video-section">
 
-
   {%- if section.settings.page_width == 'fixed_width' -%}
     <div class="page-width">
     {%- endif -%}
@@ -79,7 +78,7 @@
 
 {% schema %}
   {
-    "name": "Hero Black Days",
+    "name": "Hero Custom",
     "class": "index-section video-section index-section--flush",
     "settings": [
       {
@@ -203,13 +202,13 @@
           }, 
           {
             "value": "anodyne__vendor",
-            "label": "Activeposture Name"
-            },
+            "label": "Anodyne Name"
+          },
           {
             "value": "blackdays",
             "label": "Black Days"
           }, 
-                    {
+          {
             "value": "blackfriday",
             "label": "Black Friday"
           },
@@ -290,13 +289,13 @@
       {
         "type": "checkbox",
         "id": "show_bottom_counter",
-        "label": "Show Counter on frontpage",
+        "label": "Show Counter at the bottom of the website",
         "default": false
       }
     ],
     "presets": [
       {
-        "name": "Hero Black Day",
+        "name": "Hero Custom",
         "category": "Video",
         "settings": {
           "image_position": "center center",

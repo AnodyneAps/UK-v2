@@ -1,31 +1,7 @@
 {
   "sections": {
-    "16565958709e259b85": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "page_width": "full_width",
-        "height": "medium",
-        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/anodyne_cover_video.mp4?v=1631866527",
-        "show_overlay": true,
-        "image": "shopify:\/\/shop_images\/Hero-video-cover.png",
-        "image_position": "center center",
-        "video_title": "<span class=\"first\">ActivePosture®<\/span>",
-        "text_size": "medium",
-        "text_description": "<p><strong>Improve your posture with our patented technology<\/strong><\/p>",
-        "text_description_size": "medium",
-        "button_label": "Men",
-        "button_link": "shopify:\/\/collections\/men",
-        "second_button_label": "Women",
-        "second_button_link": "shopify:\/\/collections\/women",
-        "show_scrolldown": true,
-        "show_emark": false,
-        "bottom_counter_text": "We send your order in:",
-        "show_bottom_counter": true
-      }
-    },
-    "26b60e6d-b80c-4cac-9186-bc32afaf5241": {
-      "type": "hero-blackdays",
+    "cebe769d-f2f1-4510-ac0b-c1485c3e7860": {
+      "type": "hero-custom",
       "settings": {
         "style__selector": "none",
         "page_width": "full_width",
@@ -34,8 +10,8 @@
         "show_overlay": true,
         "image": "shopify:\/\/shop_images\/Hero-video-cover.png",
         "image_position": "center center",
-        "video_title": "<span class=\"first\">ActivePosture®<\/span>",
-        "svg_selector": "none",
+        "video_title": "",
+        "svg_selector": "anodyne__vendor",
         "text_size": "medium",
         "text_description": "<p><strong>Improve your posture with our patented technology<\/strong><\/p>",
         "text_description_size": "medium",
@@ -51,7 +27,7 @@
       }
     },
     "1656942069989ae2c9": {
-      "type": "feature-services",
+      "type": "featured-services",
       "blocks": {
         "1656942069c276e07d-0": {
           "type": "service",
@@ -198,8 +174,6 @@
             "icon": "format_quote",
             "quote": "<p><em>I was doubtful about the cost of the shirts but the impact on my pain level totally justifies the outlay. I have just ordered more.  <\/em><\/p>",
             "author": "Terri G.",
-            "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
-            "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
           }
@@ -212,8 +186,6 @@
             "icon": "format_quote",
             "quote": "<p><em>I bought my shirt and I must confess I was a little sceptical on how effective it would perform. My skepticism was unfounded.<\/em><\/p>",
             "author": "Gordon R.",
-            "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
-            "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
           }
@@ -226,8 +198,6 @@
             "icon": "format_quote",
             "quote": "<p><em>I would highly recommend this product and will be purchasing more and recommending to friends and family.<\/em><br\/><\/p>",
             "author": "Michelle W.",
-            "stars_pic": "shopify:\/\/shop_images\/download_128x32_128x32_a1d26ff3-ea54-43f1-8284-d6e963f78ae4.png",
-            "quotes_link": "https:\/\/uk.trustpilot.com\/review\/activeposture.co.uk?stars=5",
             "text_alignment": "text-center",
             "text_alignment_mobile": "text-center"
           }
@@ -241,7 +211,6 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
         "title": "",
         "subtitle": "",
         "section_style": "section-blank",
@@ -260,7 +229,6 @@
         "title": "Most popular products",
         "subtitle": "",
         "section_style": "section-blank",
-        "style__selector": "none",
         "home_featured_products": "posture-shirt",
         "rows": "2",
         "desktop_grid": "4",
@@ -400,8 +368,7 @@
     }
   },
   "order": [
-    "16565958709e259b85",
-    "26b60e6d-b80c-4cac-9186-bc32afaf5241",
+    "cebe769d-f2f1-4510-ac0b-c1485c3e7860",
     "1656942069989ae2c9",
     "1654180360d9664fc4",
     "1657200190f72ca1c0",

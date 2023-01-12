@@ -623,18 +623,6 @@
           "dbtfy_bullet_points_display_type": "inline"
         }
       },
-      "dbtfy-sales-countdown": {
-        "type": "dbtfy-sales-countdown",
-        "settings": {
-          "dbtfy_sales_countdown_icons": "local_fire_department",
-          "dbtfy_sales_countdown_prefix": "Sale ends in",
-          "dbtfy_sales_countdown_suffix": "",
-          "dbtfy_sales_countdown_d": "d",
-          "dbtfy_sales_countdown_h": "h",
-          "dbtfy_sales_countdown_m": "m",
-          "dbtfy_sales_countdown_s": "s"
-        }
-      },
       "dbtfy-delivery-time": {
         "type": "dbtfy-delivery-time",
         "settings": {
@@ -893,11 +881,7 @@
           "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<\/p>",
-          "style__selector": "none",
-          "product_counter_text": "We repack your order in:",
-          "date__selector": "none",
-          "show_product_counter": true
+          "custom_credential": "<p>ActivePosture Ltd., c\/o DSV Accounting & Business Services, Suite 23 Colworth House, Colworth Park, Sharnbrook, Bedford MK44 1LZ, United Kingdom. <br\/><br\/>Company reg. number: 11314103.<\/p>"
         }
       },
       "dbtfy-upsell-bundles": {
